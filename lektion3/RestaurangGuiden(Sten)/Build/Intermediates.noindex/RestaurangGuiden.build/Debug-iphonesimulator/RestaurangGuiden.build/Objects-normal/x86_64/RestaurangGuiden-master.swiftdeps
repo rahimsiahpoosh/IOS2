@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "c02be1f5401a5116b675ff947b8c21ac"
+build_time: [1515612182, 78441000]
+inputs:
+  "/Material/Newton kurs/projekt/RestaurangGuiden/RestaurangGuiden/RestaurantCell.swift": [1515611784, 0]
+  "/Material/Newton kurs/projekt/RestaurangGuiden/RestaurangGuiden/RestaurantPage.swift": [1515612139, 0]
+  "/Material/Newton kurs/projekt/RestaurangGuiden/RestaurangGuiden/ViewController.swift": [1515612182, 0]
+  "/Material/Newton kurs/projekt/RestaurangGuiden/RestaurangGuiden/AppDelegate.swift": [1515571733, 0]

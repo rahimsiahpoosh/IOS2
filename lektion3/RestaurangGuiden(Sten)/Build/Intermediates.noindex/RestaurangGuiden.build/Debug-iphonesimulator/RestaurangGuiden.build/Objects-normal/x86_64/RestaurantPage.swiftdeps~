@@ -1,0 +1,424 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RestaurantPage"
+provides-nominal:
+- "16RestaurangGuiden14RestaurantPageC"
+provides-member:
+- ["16RestaurangGuiden14RestaurantPageC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "makeCall"
+- "restAbout"
+- "restAdress"
+- "restImg"
+- "restName"
+- "restTel"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "RestaurantPage"
+- !private "UIImage"
+- "UIImageView"
+- "UILabel"
+- "UITextView"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", "Restaurants"]
+- !private ["s7CVarArgP", "UIImage"]
+- !private ["s7CVarArgP", "currRestaurant"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "restAbout"]
+- !private ["s7CVarArgP", "restAdress"]
+- !private ["s7CVarArgP", "restImg"]
+- !private ["s7CVarArgP", "restName"]
+- !private ["s7CVarArgP", "restTel"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- ["s28CustomDebugStringConvertibleP", "Restaurants"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- !private ["s28CustomDebugStringConvertibleP", "currRestaurant"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "restAbout"]
+- !private ["s28CustomDebugStringConvertibleP", "restAdress"]
+- !private ["s28CustomDebugStringConvertibleP", "restImg"]
+- !private ["s28CustomDebugStringConvertibleP", "restName"]
+- !private ["s28CustomDebugStringConvertibleP", "restTel"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "Restaurants"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- !private ["s23CustomStringConvertibleP", "currRestaurant"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "restAbout"]
+- !private ["s23CustomStringConvertibleP", "restAdress"]
+- !private ["s23CustomStringConvertibleP", "restImg"]
+- !private ["s23CustomStringConvertibleP", "restName"]
+- !private ["s23CustomStringConvertibleP", "restTel"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s9EquatableP", "Restaurants"]
+- !private ["s9EquatableP", "UIImage"]
+- !private ["s9EquatableP", "currRestaurant"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "image"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "restAbout"]
+- !private ["s9EquatableP", "restAdress"]
+- !private ["s9EquatableP", "restImg"]
+- !private ["s9EquatableP", "restName"]
+- !private ["s9EquatableP", "restTel"]
+- !private ["s9EquatableP", "text"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- ["s8HashableP", "Restaurants"]
+- !private ["s8HashableP", "UIImage"]
+- !private ["s8HashableP", "currRestaurant"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "image"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "restAbout"]
+- !private ["s8HashableP", "restAdress"]
+- !private ["s8HashableP", "restImg"]
+- !private ["s8HashableP", "restName"]
+- !private ["s8HashableP", "restTel"]
+- !private ["s8HashableP", "text"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- ["So8NSCodingP", "Restaurants"]
+- !private ["So8NSCodingP", "UIImage"]
+- !private ["So8NSCodingP", "currRestaurant"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "restAbout"]
+- !private ["So8NSCodingP", "restAdress"]
+- !private ["So8NSCodingP", "restImg"]
+- !private ["So8NSCodingP", "restName"]
+- !private ["So8NSCodingP", "restTel"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- ["So26NSExtensionRequestHandlingP", "Restaurants"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImage"]
+- !private ["So26NSExtensionRequestHandlingP", "currRestaurant"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "restAbout"]
+- !private ["So26NSExtensionRequestHandlingP", "restAdress"]
+- !private ["So26NSExtensionRequestHandlingP", "restImg"]
+- !private ["So26NSExtensionRequestHandlingP", "restName"]
+- !private ["So26NSExtensionRequestHandlingP", "restTel"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- ["So8NSObjectC", "Restaurants"]
+- !private ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UITextView"]
+- ["So8NSObjectC", "ViewController"]
+- ["So8NSObjectC", "currRestaurant"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "makeCall"]
+- ["So8NSObjectC", "restAbout"]
+- ["So8NSObjectC", "restAdress"]
+- ["So8NSObjectC", "restImg"]
+- ["So8NSObjectC", "restName"]
+- ["So8NSObjectC", "restTel"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So16NSObjectProtocolP", "Restaurants"]
+- !private ["So16NSObjectProtocolP", "UIImage"]
+- !private ["So16NSObjectProtocolP", "currRestaurant"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "image"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "restAbout"]
+- !private ["So16NSObjectProtocolP", "restAdress"]
+- !private ["So16NSObjectProtocolP", "restImg"]
+- !private ["So16NSObjectProtocolP", "restName"]
+- !private ["So16NSObjectProtocolP", "restTel"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["16RestaurangGuiden14RestaurantPageC", "UIImage"]
+- ["16RestaurangGuiden14RestaurantPageC", "UIImageView"]
+- ["16RestaurangGuiden14RestaurantPageC", "UILabel"]
+- ["16RestaurangGuiden14RestaurantPageC", "UITextView"]
+- ["16RestaurangGuiden14RestaurantPageC", "ViewController"]
+- ["16RestaurangGuiden14RestaurantPageC", "currRestaurant"]
+- ["16RestaurangGuiden14RestaurantPageC", "deinit"]
+- ["16RestaurangGuiden14RestaurantPageC", "didReceiveMemoryWarning"]
+- ["16RestaurangGuiden14RestaurantPageC", "init"]
+- ["16RestaurangGuiden14RestaurantPageC", "makeCall"]
+- ["16RestaurangGuiden14RestaurantPageC", "restAbout"]
+- ["16RestaurangGuiden14RestaurantPageC", "restAdress"]
+- ["16RestaurangGuiden14RestaurantPageC", "restImg"]
+- ["16RestaurangGuiden14RestaurantPageC", "restName"]
+- ["16RestaurangGuiden14RestaurantPageC", "restTel"]
+- ["16RestaurangGuiden14RestaurantPageC", "viewDidLoad"]
+- !private ["16RestaurangGuiden14ViewControllerC11RestaurantsV", "about"]
+- !private ["16RestaurangGuiden14ViewControllerC11RestaurantsV", "img"]
+- !private ["16RestaurangGuiden14ViewControllerC11RestaurantsV", "name"]
+- !private ["16RestaurangGuiden14ViewControllerC11RestaurantsV", "tel"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "Restaurants"]
+- !private ["So21UIAppearanceContainerP", "UIImage"]
+- !private ["So21UIAppearanceContainerP", "currRestaurant"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "restAbout"]
+- !private ["So21UIAppearanceContainerP", "restAdress"]
+- !private ["So21UIAppearanceContainerP", "restImg"]
+- !private ["So21UIAppearanceContainerP", "restName"]
+- !private ["So21UIAppearanceContainerP", "restTel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So18UIContentContainerP", "Restaurants"]
+- !private ["So18UIContentContainerP", "UIImage"]
+- !private ["So18UIContentContainerP", "currRestaurant"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "restAbout"]
+- !private ["So18UIContentContainerP", "restAdress"]
+- !private ["So18UIContentContainerP", "restImg"]
+- !private ["So18UIContentContainerP", "restName"]
+- !private ["So18UIContentContainerP", "restTel"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "Restaurants"]
+- !private ["So18UIFocusEnvironmentP", "UIImage"]
+- !private ["So18UIFocusEnvironmentP", "currRestaurant"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "restAbout"]
+- !private ["So18UIFocusEnvironmentP", "restAdress"]
+- !private ["So18UIFocusEnvironmentP", "restImg"]
+- !private ["So18UIFocusEnvironmentP", "restName"]
+- !private ["So18UIFocusEnvironmentP", "restTel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So7UIImageC", "init"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So7UILabelC", "text"]
+- ["So30UIPasteConfigurationSupportingP", "Restaurants"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "currRestaurant"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "restAbout"]
+- !private ["So30UIPasteConfigurationSupportingP", "restAdress"]
+- !private ["So30UIPasteConfigurationSupportingP", "restImg"]
+- !private ["So30UIPasteConfigurationSupportingP", "restName"]
+- !private ["So30UIPasteConfigurationSupportingP", "restTel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Restaurants"]
+- !private ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UITextView"]
+- ["So11UIResponderC", "ViewController"]
+- ["So11UIResponderC", "currRestaurant"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "makeCall"]
+- ["So11UIResponderC", "restAbout"]
+- ["So11UIResponderC", "restAdress"]
+- ["So11UIResponderC", "restImg"]
+- ["So11UIResponderC", "restName"]
+- ["So11UIResponderC", "restTel"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "Restaurants"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImage"]
+- !private ["So30UIResponderStandardEditActionsP", "currRestaurant"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "restAbout"]
+- !private ["So30UIResponderStandardEditActionsP", "restAdress"]
+- !private ["So30UIResponderStandardEditActionsP", "restImg"]
+- !private ["So30UIResponderStandardEditActionsP", "restName"]
+- !private ["So30UIResponderStandardEditActionsP", "restTel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So12UIScrollViewC", "text"]
+- ["So20UIScrollViewDelegateP", "Restaurants"]
+- ["So16UIStateRestoringP", "Restaurants"]
+- !private ["So16UIStateRestoringP", "UIImage"]
+- !private ["So16UIStateRestoringP", "currRestaurant"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "restAbout"]
+- !private ["So16UIStateRestoringP", "restAdress"]
+- !private ["So16UIStateRestoringP", "restImg"]
+- !private ["So16UIStateRestoringP", "restName"]
+- !private ["So16UIStateRestoringP", "restTel"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- ["So21UITableViewDataSourceP", "Restaurants"]
+- ["So19UITableViewDelegateP", "Restaurants"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So10UITextViewC", "text"]
+- ["So18UITraitEnvironmentP", "Restaurants"]
+- !private ["So18UITraitEnvironmentP", "UIImage"]
+- !private ["So18UITraitEnvironmentP", "currRestaurant"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "restAbout"]
+- !private ["So18UITraitEnvironmentP", "restAdress"]
+- !private ["So18UITraitEnvironmentP", "restImg"]
+- !private ["So18UITraitEnvironmentP", "restName"]
+- !private ["So18UITraitEnvironmentP", "restTel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Restaurants"]
+- !private ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UITextView"]
+- ["So16UIViewControllerC", "ViewController"]
+- ["So16UIViewControllerC", "currRestaurant"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "makeCall"]
+- ["So16UIViewControllerC", "restAbout"]
+- ["So16UIViewControllerC", "restAdress"]
+- ["So16UIViewControllerC", "restImg"]
+- ["So16UIViewControllerC", "restName"]
+- ["So16UIViewControllerC", "restTel"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- ["16RestaurangGuiden14ViewControllerC", "Restaurants"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Restaurants"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currRestaurant"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restAbout"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restAdress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restImg"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restTel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- "16RestaurangGuiden14RestaurantPageC"
+- !private "16RestaurangGuiden14ViewControllerC11RestaurantsV"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So7UIImageC"
+- !private "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So10UIKeyInputP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So10UITextViewC"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "16RestaurangGuiden14ViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByImageLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "40665023f9fdd7d7c02daba88e73f661"

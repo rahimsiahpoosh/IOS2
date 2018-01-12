@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "d7fa3aa0a76fe55502d1469200da064c"
+build_time: [1515578235, 745788000]
+inputs:
+  "/Material/Newton kurs/projekt/RestaurangGuiden/RestaurangGuiden/ViewController.swift": [1515578235, 0]
+  "/Material/Newton kurs/projekt/RestaurangGuiden/RestaurangGuiden/AppDelegate.swift": [1515571733, 0]
